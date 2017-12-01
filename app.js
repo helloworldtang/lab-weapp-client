@@ -1,7 +1,7 @@
 //app.js
 App({
     config: {
-        host: 'mp.techird.cn'
+        host: 'chaojihao.net'
     },
     onLaunch () {
         console.log('App.onLaunch()');

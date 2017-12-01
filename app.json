@@ -1,11 +1,11 @@
 {
     "pages":[
+	    "pages/game/game",
         "pages/index/index",
         "pages/config/config",
         "pages/https/https",
         "pages/session/session",
-        "pages/websocket/websocket",
-        "pages/game/game"
+        "pages/websocket/websocket"
     ],
     "window":{
         "backgroundTextStyle":"light",
